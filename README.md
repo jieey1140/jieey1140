@@ -1,30 +1,92 @@
-<h1 align="center">Hi 👋, I'm K- SEI HOON</h1>
-<h3 align="center">The REDREDGROUP Web Service Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jieey1140&label=Profile%20views&color=0e75b6&style=flat" alt="jieey1140" /> </p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=800&lines=Hi+I'm+K-+SEI+HOON!+;echo%3A++if(likeTypescript)+%2F%2Ftrue)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jieey1140" alt="jieey1140" /></a> </p>
+<h1 align="center">Hi, I'm K- SEI HOON | The REDREDGROUP Web Service Developer. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
 
-<p align="left"> <a href="https://twitter.com/jieey11" target="blank"><img src="https://img.shields.io/twitter/follow/jieey11?logo=twitter&style=for-the-badge" alt="jieey11" /></a> </p>
+### A few things about me
 
+- 💻 I'm web developer || DevOps (Yeeeesssss!!)
+- 📍 I'm from South Korea
+- 🕸️ I like the **Nestjs** framework and often use **NX monorepo**.
 - 🔭 I’m currently working on **Hansei VPN, safe money, job..**
-
 - 🌱 I’m currently learning **GQL, Firebase**
 
 - 👨‍💻 All of my projects are available at [private XD](private XD)
 
-- 📫 How to reach me **seihoonkim@hansei.kr or admin@redredgroup.com**
+<br>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jieey11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jieey11" height="30" width="40" /></a>
+## 📫 How to reach me?
+Contact is always welcome. Please contact me by my mail! **seihoonkim@hansei.kr or admin@redredgroup.com**
+
+
+<br>
+<br>
+
+
+## 🔧 Technologies & Tools
+<img alt="Nodejs" src ="https://img.shields.io/badge/Nodejs-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
+<img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img alt="NestJS" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white"/>
+<img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
+<img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
+
+<img alt="Amazon AWS" src ="https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+<img alt="Cloudflare" src ="https://img.shields.io/badge/Cloudflare-F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/>
+<img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black"/>
+<img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white"/>
+<img alt="Nx" src ="https://img.shields.io/badge/Nx-143055.svg?&style=for-the-badge&logo=Nx&logoColor=white"/>
+<img alt="Yarn" src ="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=Yarn&logoColor=white"/>
+<img alt="npm" src ="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
+
+<img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
+
+<br>
+<br>
+
+## 📈 GitHub Stats
+<br>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jieey1140&show_icons=true&theme=tokyonight&&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jieey1140&theme=tokyonight&count_private=true" />
+</p>
+<br>
+<br>
+
+##  Typescript Repo
+
+echo: My Typescript Repo (Other fun codes are being managed by your organization! XD)
+<p align=center>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jieey1140&repo=nest-random-image-server&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=REDREDGROUP&repo=prisma-enum-generator&theme=tokyonight" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jieey1140&show_icons=true&locale=en&layout=compact" alt="jieey1140" /></p>
+## 📰 My Highlight Blog Posts
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jieey1140&show_icons=true&locale=en" alt="jieey1140" /></p>
+<br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jieey1140&" alt="jieey1140" /></p>
+<!-- BLOG:START -->
+<p align="left">
+<a href="https://blog.ifixcomputer.org/2021/04/nginx-엔진엑스로-cdncontent-delivery-network서버-구축-하기/" title="How to make a Content Delivery network server 🔥"><img src="https://blog.ifixcomputer.org/wp-content/uploads/2021/03/NCDN_-_CDN-1024x439.png" alt="How to make a Content Delivery network server 🔥" width="250px" align="left" /></a>
+
+<a href="https://blog.ifixcomputer.org/2021/04/nginx-엔진엑스로-cdncontent-delivery-network서버-구축-하기/" title="How to make a Content Delivery network server🔥"><strong>How to make a Content Delivery network server 🔥</strong></a>
+<br/> So why do you use a CDN server? 
+For example, suppose a visitor in the United States visits my blog. Sending a request to my blog creates a huge delay for visitors in the U.S. to view this blog, which is very detrimental to users who use the web page...
+ </p> 
+ <br/> 
+ <br/>
+
+<p align="left">
+<a href="https://blog.ifixcomputer.org/2021/04/프로젝트-학교-무료-vpn-hansei-vpn-을-소개합니다/" title="Learn how to deploy a Softether VPN server..."><img src="https://blog.ifixcomputer.org/wp-content/uploads/2021/07/image-17-1024x512.png" alt="Learn how to deploy a Softether VPN server..." width="250px" align="left" /></a>
+<a href="https://blog.ifixcomputer.org/2021/04/프로젝트-학교-무료-vpn-hansei-vpn-을-소개합니다/" title="Learn how to deploy a Softether VPN server..."><strong>Learn how to deploy a Softether VPN server...</strong></a>
+<br/> 
+This time, we will use the Telegram API to send the error to a Telegram message when a server error occurs with a bot so that we can know the error content immediately...
+ </p> <br/> <br/>
+
+
+<p align="center">  
+<a href="https://blog.ifixcomputer.org"><img src="https://user-images.githubusercontent.com/76690419/142756081-13352f92-8482-4a86-acbb-72dc164e8746.png" alt="Read more" width="200"/></a>
+</p>
