@@ -25,13 +25,16 @@ Contact is always welcome. Please contact me by my mail! **seihoonkim@hansei.kr 
 
 
 ## 🔧 Technologies & Tools
+<p align="center">
 <img alt="Nodejs" src ="https://img.shields.io/badge/Nodejs-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img alt="NestJS" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white"/>
 <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
 <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
+</p>
 
+<p align="center">
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 <img alt="Cloudflare" src ="https://img.shields.io/badge/Cloudflare-F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/>
 <img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black"/>
@@ -39,8 +42,11 @@ Contact is always welcome. Please contact me by my mail! **seihoonkim@hansei.kr 
 <img alt="Nx" src ="https://img.shields.io/badge/Nx-143055.svg?&style=for-the-badge&logo=Nx&logoColor=white"/>
 <img alt="Yarn" src ="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=Yarn&logoColor=white"/>
 <img alt="npm" src ="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
+</p>
 
+<p align="center">
 <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
+</p>
 
 <br>
 <br>
