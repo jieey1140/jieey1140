@@ -1,73 +1,23 @@
+Hi, I'm a full-stack engineer based in South Korea with 4 years of experience, passionate about designing and building better systems. I aspire to become a founder one day and enjoy contributing to open-source projects or building my own whenever I have time.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=800&lines=Hi+I'm+K-+SEI+HOON!+;echo%3A++if(likeTypescript)+%2F%2Ftrue)](https://git.io/typing-svg)
-
-<h1 align="center">Hi, I'm K- SEI HOON | The REDREDGROUP Web Service Developer. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'></h1>
-
-### A few things about me
-
-- 💻 I'm web developer || DevOps (Yeeeesssss!!)
-- 📍 I'm from South Korea
-- 🕸️ I like the **Nestjs** framework and often use **NX monorepo**.
-- 🔭 I’m currently working on **Hansei VPN, safe money, job..**
-- 🌱 I’m currently learning **GQL, Firebase**
-
-- 👨‍💻 All of my projects are available at [private XD](private XD)
-
-<br>
-<br>
-
-## 📫 How to reach me?
-Contact is always welcome. Please contact me by my mail! **seihoonkim@hansei.kr or admin@redredgroup.com**
+All of my side project applications are deployed in production environments using a hybrid infrastructure of GCP and on-premise servers, with AWS-based backup systems in place to ensure reliable operation.
 
 
 <br>
 <br>
 
 
-## 🔧 Technologies & Tools
-<p align="center">
-<img alt="Nodejs" src ="https://img.shields.io/badge/Nodejs-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
-<img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img alt="NestJS" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white"/>
-<img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=for-the-badge&logo=Express&logoColor=white"/>
-<img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white"/>
-</p>
+[![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jieey1140&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-<img alt="Amazon AWS" src ="https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-<img alt="Cloudflare" src ="https://img.shields.io/badge/Cloudflare-F38020.svg?&style=for-the-badge&logo=Cloudflare&logoColor=white"/>
-<img alt="Firebase" src ="https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black"/>
-<img alt="NGINX" src ="https://img.shields.io/badge/NGINX-009639.svg?&style=for-the-badge&logo=NGINX&logoColor=white"/>
-<img alt="Nx" src ="https://img.shields.io/badge/Nx-143055.svg?&style=for-the-badge&logo=Nx&logoColor=white"/>
-<img alt="Yarn" src ="https://img.shields.io/badge/Yarn-2C8EBB.svg?&style=for-the-badge&logo=Yarn&logoColor=white"/>
-<img alt="npm" src ="https://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
-
-<p align="center">
-<img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white"/>
-</p>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jieey1140&show_icons=true&theme=tokyonight&&count_private=true" />
 <br>
 <br>
 
-## 📈 GitHub Stats
-<br>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jieey1140&show_icons=true&theme=tokyonight&&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jieey1140&theme=tokyonight&count_private=true" />
-</p>
-<br>
-<br>
+## 
 
-##  Typescript Repo
-
-echo: My Typescript Repo (Other fun codes are being managed by your organization! XD)
-<p align=center>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=jieey1140&repo=nest-random-image-server&theme=tokyonight" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=REDREDGROUP&repo=prisma-enum-generator&theme=tokyonight" />
-</p>
-
+## My Open Source Project
+<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=REDREDGROUP&repo=samsungknox&theme=tokyonight" /> <br/>
+<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=REDREDGROUP&repo=nestjs&theme=tokyonight" /> <br/>
 <br>
 
 ## 📰 My Highlight Blog Posts
