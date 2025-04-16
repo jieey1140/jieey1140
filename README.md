@@ -1,23 +1,19 @@
-Hi, I'm a full-stack engineer based in South Korea with 4 years of experience, passionate about designing and building better systems. I aspire to become a founder one day and enjoy contributing to open-source projects or building my own whenever I have time.
+## Hi
+I'm a full-stack engineer based in South Korea with 4 years of experience, passionate about designing and building better systems. I aspire to become a founder one day and enjoy contributing to open-source projects or building my own whenever I have time.
 
 All of my side project applications are deployed in production environments using a hybrid infrastructure of GCP and on-premise servers, with AWS-based backup systems in place to ensure reliable operation.
 
 
 <br>
-<br>
-
 
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jieey1140&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jieey1140&show_icons=true&theme=tokyonight&&count_private=true" />
 <br>
 <br>
 
-## 
-
-## My Open Source Project
-<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=REDREDGROUP&repo=samsungknox&theme=tokyonight" /> <br/>
-<img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=REDREDGROUP&repo=nestjs&theme=tokyonight" /> <br/>
+##  My Open Source Projects
+<img width="44%" src="https://github-readme-stats.vercel.app/api/pin/?username=REDREDGROUP&repo=samsungknox&theme=tokyonight" /> <br/>
+<img width="44%" src="https://github-readme-stats.vercel.app/api/pin/?username=REDREDGROUP&repo=nestjs&theme=tokyonight" /> <br/>
 <br>
 
 ## 📰 My Highlight Blog Posts
